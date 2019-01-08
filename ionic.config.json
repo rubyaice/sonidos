@@ -1,6 +1,7 @@
 {
   "name": "sonidos",
   "integrations": {},
-  "type": "ionic-angular",
-  "id": "1c7fbff2"
+  "type": "angular",
+  "v2": true,
+  "typescript": true
 }
